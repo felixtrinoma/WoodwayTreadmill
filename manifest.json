@@ -5,6 +5,8 @@
   "description": "Package containing controls and UI objects and scripts to handle Woodway Treadmill control in Unity",
   "unity": "2021.3",
   "unityRelease": "0f1",
+  "dependencies": {
+    "com.TRINOMA.WoodwayTreadmill": "https://github.com/felixtrinoma/WoodwayTreadmill.git",
  },
   "author": {
     "name": "TRINOMA",
