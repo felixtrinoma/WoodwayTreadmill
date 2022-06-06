@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PARI_ConfigFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Version>1.8</Version>
+  <Mode>MultiView</Mode>
+  <ForceResolution>true</ForceResolution>
+  <DisplayResolution>
+    <x>4096</x>
+    <y>2160</y>
+  </DisplayResolution>
+  <FullScreen>false</FullScreen>
+  <PopUpWindow>false</PopUpWindow>
+  <ClientsCount>1</ClientsCount>
+  <ClientIndex>0</ClientIndex>
+  <DisplaysCount>1</DisplaysCount>
+  <Folder />
+  <ControlMonitor>Blank</ControlMonitor>
+  <ControlMonitorResolution>
+    <x>1920</x>
+    <y>1080</y>
+  </ControlMonitorResolution>
+  <DisplayOffset>
+    <x>1920</x>
+    <y>0</y>
+  </DisplayOffset>
+</PARI_ConfigFile>

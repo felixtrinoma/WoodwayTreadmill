@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PARI_SceneConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Version>1.7</Version>
+	<Stereo>
+		<StereoMode>false</StereoMode>
+		<InfinityMode>true</InfinityMode>
+		<InfinityDistance>400</InfinityDistance>
+		<StereoFocusDistance>2</StereoFocusDistance>
+		<MaxDisparity>0.015</MaxDisparity>
+	</Stereo>
+	<Display>
+		<CameraOffsetAngleY>-28</CameraOffsetAngleY>
+		<PhysicalVisitorEyesHeight>2</PhysicalVisitorEyesHeight>
+		<Brightness>0</Brightness>
+		<Contrast>0</Contrast>
+		<Saturation>1</Saturation>
+		<Gamma>1</Gamma>
+	</Display>
+	<Audio>
+		<GlobalVolume>1</GlobalVolume>
+	</Audio>
+</PARI_SceneConfig>
