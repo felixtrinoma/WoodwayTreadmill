@@ -5,10 +5,8 @@ Software requirements:
 
 Install:
 -	Download package
--	Copy PARI folder from _Trinoma/InstallFiles to C:\Users\Public
--	Make sure Public folder is shared 
--	In the Project or Build folder:
--	Make sure to always put the 2 xml files:
+-	Copy PARI folder from _Trinoma/InstallFiles to C:\Users\Public and make sure Public folder is shared (only necessary if it is the first time the package is used on the computer)
+-	In the Project or Build folder, make sure to always put the 2 xml files:
 	-	PARIConfig.xml: configuration settings for monitors and projectors
 	-	Scene_config.xml: configuration settings for display
 -	In Unity, set the following parameters in Project Settings:
