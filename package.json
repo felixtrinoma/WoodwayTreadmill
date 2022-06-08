@@ -10,5 +10,9 @@
     "name": "TRINOMA",
     "email": "felix@trinoma.fr",
     "url": "https://www.trinoma.fr"
+  },
+  {
+  "dependencies": {
+    "fr.trinoma.woodwaytreadmill": "https://github.com/felixtrinoma/WoodwayTreadmill.git",
   }
 }
