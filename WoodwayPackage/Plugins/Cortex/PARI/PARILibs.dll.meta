@@ -1,0 +1,40 @@
+fileFormatVersion: 2
+guid: b61aacba7a90c7e4d9f18b8a4b9dbef7
+PluginImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  iconMap: {}
+  executionOrder:
+    HandAnimation: 100
+    PARILibs.BroadcastTransform: 700
+    PARILibs.Interactivity.PARI_MotionCapture: 350
+    PARILibs.PARI_Audio_Listener_OSC: 380
+    PARILibs.PARI_Audio_Source_Object_OSC: 390
+    PARILibs.PARI_MotionCapture: 390
+    PARILibs.PARI_NetworkObject: 800
+  defineConstraints: []
+  isPreloaded: 0
+  isOverridable: 0
+  isExplicitlyReferenced: 0
+  validateReferences: 1
+  platformData:
+  - first:
+      Any: 
+    second:
+      enabled: 1
+      settings: {}
+  - first:
+      Editor: Editor
+    second:
+      enabled: 0
+      settings:
+        DefaultValueInitialized: true
+  - first:
+      Windows Store Apps: WindowsStoreApps
+    second:
+      enabled: 0
+      settings:
+        CPU: AnyCPU
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
