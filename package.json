@@ -1,5 +1,5 @@
 {
-  "name": "fr.TRINOMA.WoodwayTreadmill",
+  "name": "fr.trinoma.woodwaytreadmill",
   "version": "1.0.0",
   "displayName": "Woodway Treadmill Package",
   "description": "Package containing controls and UI objects and scripts to handle Woodway Treadmill control in Unity",
