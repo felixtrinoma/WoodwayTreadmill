@@ -9,5 +9,8 @@
     "name": "TRINOMA",
     "email": "felix@trinoma.fr",
     "url": "https://www.trinoma.fr"
+	"dependencies": {
+    "com.mycompany.mypackage": "https://github.example.com/myuser/myrepository.git"
+  }
   }
 }
