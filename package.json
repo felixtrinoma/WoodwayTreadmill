@@ -1,6 +1,6 @@
 {
   "name": "fr.trinoma.woodwaytreadmill",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "displayName": "Woodway Treadmill Package",
   "description": "Package containing controls and UI objects and scripts to handle Woodway Treadmill control in Unity",
   "unity": "2021.3",
